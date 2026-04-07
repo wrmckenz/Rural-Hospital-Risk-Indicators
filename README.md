@@ -1,10 +1,10 @@
 # Rural-Hospital-Risk-Indicators
 
 ## Overview
-This project builds a model to estimate which hospitals may be at risk of closing within 1 year. We use publicly available hospital and community data to identify patterns associated with higher risk. <br>
+This project builds a model to estimate which hospitals may be at risk of closing within 1 year. We use publicly available hospital and community data to identify patterns associated with higher risk.
 ### Report:
 Project Report - Rural Hospital Risk Indicators.pdf is included in this repository <br>
-Project Report link: <br>
+Project Report link:
 ### Code:
 Rural Hospital Risk Indicators.ipynb is included in this repository <br>
 ### Project Data:
