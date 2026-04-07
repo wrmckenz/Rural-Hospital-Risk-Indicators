@@ -2,23 +2,23 @@
 
 ## Overview
 This project builds a model to estimate which hospitals may be at risk of closing within 1 year. We use publicly available hospital and community data to identify patterns associated with higher risk. <br>
-### Report:<br>
+### Report:
 Project Report - Rural Hospital Risk Indicators.pdf is included in this repository <br>
 Project Report link: <br>
-### Code:<br>
+### Code:
 Rural Hospital Risk Indicators.ipynb is included in this repository <br>
-### Project Data:<br>
+### Project Data:
 merged_df_sample_500.csv sample of the dataset after preprocessing is included in this repository <br>
 CMS Hospital Provider Cost Report link: https://data.cms.gov/provider-compliance/cost-reports/hospital-provider-cost-report/data <br>
 CMS Provider of Services link: https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-quality-improvement-and-evaluation-system/data <br>
 UNC Rural Hospital Closure link: https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/ <br>
 
 ## How to Run this Project
-### Step 1: Download the code <br>
+### Step 1: Download the code
 Download this repository from GitHub to your computer. <br>
-### Step 2: Open the project folder <br>
+### Step 2: Open the project folder
 Open the folder in your terminal or coding environment
-### Step 3: Install required libraries <br>
+### Step 3: Install required libraries
 Run the following command to install everything you need: <br>
 pip install -r requirements.txt <br>
 ### Step 4: Add the data <br>
