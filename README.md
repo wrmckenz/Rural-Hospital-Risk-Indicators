@@ -13,7 +13,7 @@ This project uses publicly available datasets, including: <br>
 2. CMS Provider of Services link: https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-quality-improvement-and-evaluation-system/data <br>
 3. UNC Rural Hospital Closure link: https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/ <br>
 
-Links to these data sources are provided above. Due to the size and update frequency, the full datasets are not included in this repository. A sample processed dataset (merged_df_sample_500.csv) is included for reference. <br>
+Due to the size and update frequency, the full datasets are not included in this repository. A sample processed dataset (merged_df_sample_500.csv) is included for reference. <br>
 
 We do not claim ownership of any third-party data used in this project. Users are responsible for complying with the terms of use and licensing of each data source. <br>
 
