@@ -2,14 +2,11 @@
 
 ## Overview
 This project builds a model to estimate which hospitals may be at risk of closing within 1 year. We use publicly available hospital and community data to identify patterns associated with higher risk. <br>
-
 ### Report:<br>
 Project Report - Rural Hospital Risk Indicators.pdf is included in this repository <br>
 Project Report link: <br>
-
 ### Code:<br>
 Rural Hospital Risk Indicators.ipynb is included in this repository <br>
-
 ### Project Data:<br>
 merged_df_sample_500.csv sample of the dataset after preprocessing is included in this repository <br>
 CMS Hospital Provider Cost Report link: https://data.cms.gov/provider-compliance/cost-reports/hospital-provider-cost-report/data<br>
@@ -32,7 +29,6 @@ Run the scripts in this order: <br>
 2. Modeling <br>
 3. Analysis <br>
 These scripts will clean and combine the data, train the models, and generate results and figures. <br>
-
 ## What This Code Produces <br>
 Running the code will create: <br>
 1. model performance results <br>
@@ -41,14 +37,11 @@ Running the code will create: <br>
 4. classification of hospitals into high, medium, and low risk of closure within 1 year with key ratios comparison showing what factors are driving risk relative to the average hospital <br> 
 5. figures used in the final report <br>
 MAYBE CREATE AN OUTPUTS FOLDER IF TIME  <br>
-
 ## Requirements  <br>
 All required Python libraries are listed in requirements.txt <br>
-
-## Notes
-1. The code has been cleaned and simplified for submission
-2. All results and figures in the report can be reproduced using this code
-
-## Team
-McKenzie Boutsikakis
-Kostas Boutsikakis
+## Notes <br>
+1. The code has been cleaned and simplified for submission <br>
+2. All results and figures in the report can be reproduced using this code <br>
+## Team  <br>
+McKenzie Boutsikakis <br>
+Kostas Boutsikakis <br>
