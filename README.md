@@ -7,22 +7,26 @@ Project Report - Rural Hospital Risk Indicators.pdf is included in this reposito
 Project Report link:
 ### Code:
 Rural Hospital Risk Indicators.ipynb is included in this repository <br>
-### Project Data:
-merged_df_sample_500.csv sample of the dataset after preprocessing is included in this repository <br>
-CMS Hospital Provider Cost Report link: https://data.cms.gov/provider-compliance/cost-reports/hospital-provider-cost-report/data <br>
-CMS Provider of Services link: https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-quality-improvement-and-evaluation-system/data <br>
-UNC Rural Hospital Closure link: https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/ <br>
+### Data Access Statement:
+This project uses publicly available datasets, including: <br>
+1. CMS Hospital Provider Cost Report link: https://data.cms.gov/provider-compliance/cost-reports/hospital-provider-cost-report/data <br>
+2. CMS Provider of Services link: https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-quality-improvement-and-evaluation-system/data <br>
+3. UNC Rural Hospital Closure link: https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/ <br>
+
+Links to these data sources are provided above. Due to the size and update frequency, the full datasets are not included in this repository. A sample processed dataset (merged_df_sample_500.csv) is included for reference. <br>
+
+We do not claim ownership of any third-party data used in this project. Users are responsible for complying with the terms of use and licensing of each data source. <br>
 
 ## How to Run this Project
 ### Step 1: Download the code
 Download this repository from GitHub to your computer. <br>
 ### Step 2: Open the project folder
-Open the folder in your terminal or coding environment
+Open the folder in your terminal or coding environment.
 ### Step 3: Install required libraries
 Run the following command to install everything you need: <br>
 pip install -r requirements.txt <br>
 ### Step 4: Add the data <br>
-NEED TO CIRCLE BACK <br>
+ADD DETAILS TO FULL DATASET, NEED TO CIRCLE BACK <br>
 ### Step 5: Run the code <br>
 Run the scripts in this order: <br>
 1. Data Preparation <br>
