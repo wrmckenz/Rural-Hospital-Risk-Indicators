@@ -14,7 +14,8 @@ This project uses publicly available datasets, including: <br>
 3. UNC Rural Hospital Closure link: https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/ <br>
 Due to GitHub file size constraints, the processed dataset is provided in compressed (.csv.gz). The full dataset is included and can be loaded directly. <br>
 We do not claim ownership of any third-party data used in this project. Users are responsible for complying with the terms of use and licensing of each data source. <br>
-Note: The data preprocessing section in the notebook is commented out, as this file represents the final output of that pipeline.  <br>
+<br>
+The data preprocessing section in the notebook is commented out, as this file represents the final output of that pipeline.  <br>
 If you would like to rerun the preprocessing steps, uncomment the relevant code in the notebook and download the raw datasets. <br>
 1. CMS Hospital Provider Cost Report (2013-2023) <br>
 2. CMS Provider of Service Q4 files (2013-2023) <br>
