@@ -1,11 +1,11 @@
 # Rural-Hospital-Risk-Indicators
 
 ## Repository Structure Section
--Rural Hospital Risk Indicators Clean Code.ipynb - main analysis notebook <br>
--Rural Hospital Risk Indicators Code.ipynb - preprocessing pipeline <br>
--merged_data.csv.gz - preprocessed dataset <br>
--requirements.txt - required Python Libraries <br>
--Project Report - Rural Hospital Risk Indicators.pdf - final report <br>
+- Rural Hospital Risk Indicators Clean Code.ipynb - main analysis notebook <br>
+- Rural Hospital Risk Indicators Code.ipynb - preprocessing pipeline <br>
+- merged_data.csv.gz - preprocessed dataset <br>
+- requirements.txt - required Python Libraries <br>
+- Project Report - Rural Hospital Risk Indicators.pdf - final report <br>
 ## Overview
 This project builds a model to estimate which hospitals may be at risk of closing within 1 year. We use publicly available hospital and community data to identify patterns associated with higher risk. The model is designed to support policymakers and stakeholders in identifying hospitals that may require monitoring or targeted intervention.
 ### Report:
@@ -22,7 +22,7 @@ Due to GitHub file size constraints, the processed dataset is provided in compre
 We do not claim ownership of any third-party data used in this project. Users are responsible for complying with the terms of use and licensing of each data source. <br>
 <br>
 The data preprocessing section has been separated from the main analysis notebook to improve clarity and readability. <br>
-If you would like to recreate the dataset from raw sources refer to notebook 'Rural Hospital Risk Indicators Code.ipynb', uncomment the relevant code in the notebook and download the raw datasets. <br>
+If you would like to recreate the dataset from raw sources refer to notebook 'Rural Hospital Risk Indicators Code.ipynb', uncomment the data preprocessing code section in the notebook and download the raw datasets. <br>
 1. CMS Hospital Provider Cost Report (2013-2023) <br>
 2. CMS Provider of Service Q4 files (2013-2023) <br>
 3. UNC Rural Hospital Closure Dataset <br>
@@ -41,7 +41,7 @@ The processed dataset used in this project is included in compressed format as: 
 This file contains the fully merged and cleaned dataset used for modeling and analysis. <br>
 ### Step 5: Run the code <br>
 Run the notebook 'Rural Hospital Risk Indicators Clean Code.ipynb' to execute the modeling and analysis steps. <br>
-Note: This notebook uses preprocessed dataset (merged_data.csv.gz) to reproduce all results and figures in the report. The data preprocessing has been separated to improve clarity and reproducibility but can be found in 'Rural Hospital Risk Indicators Code.ipynb' notebook. <br>
+Note: This notebook uses the preprocessed dataset (merged_data.csv.gz) to reproduce all results and figures in the report. The data preprocessing has been separated to improve clarity and reproducibility but can be found in 'Rural Hospital Risk Indicators Code.ipynb' notebook. <br>
 ## What This Code Produces <br>
 Running the code will create: <br>
 1. model performance results <br>
