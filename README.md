@@ -21,8 +21,7 @@ This project uses publicly available datasets, including: <br>
 Due to GitHub file size constraints, the processed dataset is provided in compressed (.csv.gz). The full dataset is included and can be loaded directly. <br>
 We do not claim ownership of any third-party data used in this project. Users are responsible for complying with the terms of use and licensing of each data source. <br>
 <br>
-The data preprocessing section has been separated from the main analysis notebook to improve clarity and readability. <br>
-If you would like to recreate the dataset from raw sources refer to notebook 'Rural Hospital Risk Indicators Code.ipynb', uncomment the data preprocessing code section in the notebook and download the raw datasets. <br>
+The data preprocessing section has been separated from the main analysis notebook to improve clarity and readability. If you would like to recreate the dataset from raw sources refer to notebook 'Rural Hospital Risk Indicators Code.ipynb', uncomment the data preprocessing code section in the notebook and download the raw datasets. <br>
 1. CMS Hospital Provider Cost Report (2013-2023) <br>
 2. CMS Provider of Service Q4 files (2013-2023) <br>
 3. UNC Rural Hospital Closure Dataset <br>
@@ -34,8 +33,7 @@ Download this repository from GitHub. <br>
 ### Step 2: Open the project folder
 Open the project folder in your preferred coding environment.
 ### Step 3: Install required libraries
-Run the following command to install everything you need: <br>
-pip install -r requirements.txt <br>
+Run the following command to install everything you need: pip install -r requirements.txt <br>
 ### Step 4: Add the data <br>
 The processed dataset used in this project is included in compressed format as: merged_data.csv.gz <br>
 This file contains the fully merged and cleaned dataset used for modeling and analysis. <br>
@@ -47,7 +45,7 @@ Running the code will create: <br>
 1. model performance results <br>
 2. feature importance outputs <br>
 3. comparisons between high and low risk hospitals <br>
-4. classification of hospitals into high, medium, and low risk of closure within 1 year with key ratios comparison showing what factors are driving risk relative to the average hospital. <br> 
+4. classification of hospitals into high, medium, and low risk of closure within 1 year with key ratios comparison showing what factors are driving risk relative to the average hospital <br> 
 5. figures used in the final report <br>
 ## Requirements  <br>
 All required Python libraries are listed in requirements.txt <br>
