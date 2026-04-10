@@ -1,10 +1,15 @@
 # Rural-Hospital-Risk-Indicators
 
+## Repository Structure Section
+-Rural Hospital Risk Indicators Clean Code.ipynb - main analysis notebook <br>
+-Rural Hospital Risk Indicators Code.ipynb - preprocessing pipeline <br>
+-merged_data.csv.gz - preprocessed dataset
+-requirements.txt - required Python Libraries
+-Project Report - Rural Hospital Risk Indicators.pdf
 ## Overview
 This project builds a model to estimate which hospitals may be at risk of closing within 1 year. We use publicly available hospital and community data to identify patterns associated with higher risk. The model is designed to support policymakers and stakeholders in identifying hospitals that may require monitoring or targeted intervention.
 ### Report:
 Project Report - Rural Hospital Risk Indicators.pdf is included in this repository <br>
-Project Report link:
 ### Code:
 Rural Hospital Risk Indicators Clean Code.ipynb - main notebook used to reproduce modeling, analysis, and figures <br>
 Rural Hospital Risk Indicators Code.ipynb - full data acquisition and preprocessing workflow
