@@ -6,7 +6,7 @@ This project builds a model to estimate which hospitals may be at risk of closin
 Project Report - Rural Hospital Risk Indicators.pdf is included in this repository <br>
 Project Report link:
 ### Code:
-Rural Hospital Risk Indicators.ipynb is included in this repository <br>
+Rural Hospital Risk Indicators Code.ipynb is included in this repository <br>
 ### Data Access Statement:
 This project uses publicly available datasets, including: <br>
 1. CMS Hospital Provider Cost Report link: https://data.cms.gov/provider-compliance/cost-reports/hospital-provider-cost-report/data <br>
