@@ -35,6 +35,7 @@ This project uses publicly available datasets, including: <br>
 1. CMS Hospital Provider Cost Report link: https://data.cms.gov/provider-compliance/cost-reports/hospital-provider-cost-report/data <br>
 2. CMS Provider of Services link: https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-quality-improvement-and-evaluation-system/data <br>
 3. UNC Rural Hospital Closure link: https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/ <br>
+<br>
 Due to GitHub file size constraints: <br>
 - A sample version of the Provider of Services dataset is included <br>
 - A processed dataset is provided to allow reproduction of results <br>
