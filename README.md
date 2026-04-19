@@ -3,6 +3,7 @@
 ## Overview
 This project builds a model to estimate which hospitals may be at risk of closing within 1 year. We use publicly available hospital and community data to identify patterns associated with higher risk. The model is designed to support policymakers and stakeholders in identifying hospitals that may require monitoring or targeted intervention.
 ## Repository Structure Section
+'''
 data/ <br>
   raw/ <br>
     Cost Reports.zip <br>
@@ -10,6 +11,7 @@ data/ <br>
     UNC Closures-Database.xlsx <br>
   processed/ <br>
     merged_data.csv.gz <br>
+'''
 <br>
 Rural Hospital Risk Indicators Clean.ipynb <br>
 Rural Hospital Risk Indicators Processed.ipynb <br>
