@@ -40,7 +40,9 @@ Due to GitHub file size constraints: <br>
 - A sample version of the Provider of Services dataset is included <br>
 - A processed dataset is provided to allow reproduction of results <br>
 - The full datasets can be downloaded using the links above <br>
-We do not claim ownership of any third-party data used in this project. <br>
+<br>
+#### We do not claim ownership of any third-party data used in this project. 
+<br>
 
 ## How to Run this Project
 ### Step 1: Download the code
