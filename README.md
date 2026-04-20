@@ -11,6 +11,7 @@ data/
     UNC Closures-Database.xlsx
   processed/
     merged_data.csv.gz
+Poster - Rural Hospital Risk Indicators.pdf
 Project Report - Rural Hospital Risk Indicators.pdf
 Rural Hospital Risk Indicators Clean.ipynb
 Rural Hospital Risk Indicators Processed.ipynb
@@ -19,6 +20,8 @@ README.md
 ```
 ### Report:
 Project Report - Rural Hospital Risk Indicators.pdf is included in this repository <br>
+### Poster:
+Poster - Rural Hospital Risk Indicators.pdf is included in this repository <br>
 ### Code:
 Rural Hospital Risk Indicators Processed.ipynb - main notebook used to reproduce modeling, analysis, and figures <br>
 Rural Hospital Risk Indicators Clean.ipynb - full data acquisition and preprocessing workflow <br>
