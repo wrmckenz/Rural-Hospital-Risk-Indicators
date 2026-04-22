@@ -57,13 +57,13 @@ Run the following command to install everything you need: pip install -r require
 ### Step 4: Run the notebook <br>
 #### Option 1
 Run the notebook 'Rural Hospital Risk Indicators Processed.ipynb' <br>
-This notebook: <br>
+This notebook includes: <br>
 - Uses the preprocessed dataset (data/processed/merged_data.csv.gz) <br>
 - Reproduces all modeling results and figures from the report <br>
 - Does not require rebuilding the dataset from the raw files <br>
 #### Option 2
 Run the notebook 'Rural Hospital Risk Indicators Clean.ipynb' <br>
-This notebook: <br>
+This notebook includes: <br>
 - Uses the raw dataset (data/raw/) <br>
 - Performs full data cleaning, merging, and feature engineering <br>
 - Recreates the final modeling dataset using the provided sample data <br>
